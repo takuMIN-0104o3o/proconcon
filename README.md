@@ -1,3 +1,6 @@
+## proconcon
+スプラトゥーン3 マウスコンバーター  
+
 ## ビルド方法
 gcc proconcon.c -o proconcon.out -l pthread -lm -O3 -Wall  
   
@@ -7,8 +10,6 @@ gcc proconcon.c -o proconcon.out -l pthread -lm -O3 -Wall
 ## 接続方法
 ラズベリーパイにKeyboard、Mouseを接続する。  
 ラズベリーパイをUSBケーブルでNintendo SWITCHに接続する。  
-  
-![IMG_E1374](https://user-images.githubusercontent.com/83897755/204125349-ef4d7021-fbfd-4df3-9745-1a1058430d0c.jpg)
   
 ## 起動方法
 sudo ./load_procon.sh  
