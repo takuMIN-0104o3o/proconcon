@@ -61,7 +61,7 @@ sudo ./proconcon.out
 | WASD          | Stick L       |                                                   | 
 | SHIFT L       |               | Move slowly with SHIFT L + WASD                   | 
 | SPACE         | B             |                                                   |
-| E             | A             |                                                   | 
+| F             | A             |                                                   | 
 | R             | X             |                                                   | 
 | F             | Hat Up        |                                                   | 
 | C             | Hat Down      |                                                   | 
@@ -73,10 +73,10 @@ sudo ./proconcon.out
 | I             | Stick R Push  |                                                   | 
 | L             |               | Tesla menu open                                   | 
 | Z             |               | Super jump to respawn point                     | 
-| Num2          | Hat Down      |                                                   | 
-| Num4          | Hat Left      |                                                   | 
-| Num6          | Hat Right     |                                                   | 
-| Num8          | Hat Up        |                                                   | 
+| ↓          | Hat Down      |                                                   | 
+| ←          | Hat Left      |                                                   | 
+| →          | Hat Right     |                                                   | 
+| ↑          | Hat Up        |                                                   | 
 | Arrow Key     | Stick R       |                                                   | 
 | F5            |               | X sensitivity+0.1 デバッグ用                       | 
 | F6            |               | X sensitivity-0.1 デバッグ用                       | 
