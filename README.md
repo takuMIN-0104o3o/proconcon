@@ -59,12 +59,13 @@ sudo ./proconcon.out
 | 8             |               | Rapid Fire (High)                                 |
 | 9             |               | Mouse Lの単射、連射入れ替え                         | 
 | WASD          | Stick L       | Move                                              | 
+| Q             |               | Super jump to respawn point                     | 
 | SHIFT L       |               | Move slowly with SHIFT L + WASD                   | 
 | SPACE         | B             | Jump                                              |
 | LCTRL         | ZL            | Squid                                             |
-| F             | A             |                                                   | 
-| R             | X             |                                                   | 
-| F             | Hat Up        |                                                   | 
+| F             | A             | Intract                                           | 
+| LALT          | X             | Map                                               | 
+| side3         | Hat Up        | ナイス連射                                         | 
 | C             | Hat Down      |                                                   | 
 | T             | L             |                                                   | 
 | Y             | R             |                                                   | 
@@ -73,7 +74,6 @@ sudo ./proconcon.out
 | U             | Stick L Push  |                                                   | 
 | I             | Stick R Push  |                                                   | 
 | L             |               | Tesla menu open                                   | 
-| Z             |               | Super jump to respawn point                     | 
 | ↑          | Hat Up        |                                                   | 
 | ↓          | Hat Down      |                                                   | 
 | ←          | Hat Left      |                                                   | 
