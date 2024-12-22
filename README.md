@@ -57,11 +57,11 @@ sudo ./proconcon.out
 | 4             | +             |                                                   | 
 | 7             |               | Rapid Fire (Slow)                                 |
 | 8             |               | Rapid Fire (High)                                 |
-| 9             |               | Mouse Lの単射、連射入れ替え                        | 
-| WASD          | Stick L       |                                                   | 
+| 9             |               | Mouse Lの単射、連射入れ替え                         | 
+| WASD          | Stick L       | Move                                              | 
 | SHIFT L       |               | Move slowly with SHIFT L + WASD                   | 
-| SPACE         | B             | 
-| LCTRL         | ZR            | |
+| SPACE         | B             | Jump                                              |
+| LCTRL         | ZL            | Squid                                             |
 | F             | A             |                                                   | 
 | R             | X             |                                                   | 
 | F             | Hat Up        |                                                   | 
@@ -74,7 +74,7 @@ sudo ./proconcon.out
 | I             | Stick R Push  |                                                   | 
 | L             |               | Tesla menu open                                   | 
 | Z             |               | Super jump to respawn point                     | 
-| ↑          | Hat UP        |                                                   | 
+| ↑          | Hat Up        |                                                   | 
 | ↓          | Hat Down      |                                                   | 
 | ←          | Hat Left      |                                                   | 
 | →          | Hat Right     |                                                   | 
@@ -92,8 +92,3 @@ sudo ./proconcon.out
 | Mouse Wheel   | Stick R Push  |                                                   | 
 | Mouse Middle  | Stick R Push  |                                                   | 
 | Mouse move    | Gyro          |                                                   | 
-
-  
-## 参考文献
-https://www.mzyy94.com/blog/2020/03/20/nintendo-switch-pro-controller-usb-gadget/  
-https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering  
