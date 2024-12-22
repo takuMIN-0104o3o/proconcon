@@ -60,7 +60,8 @@ sudo ./proconcon.out
 | 9             |               | Mouse Lの単射、連射入れ替え                        | 
 | WASD          | Stick L       |                                                   | 
 | SHIFT L       |               | Move slowly with SHIFT L + WASD                   | 
-| SPACE         | B             |                                                   |
+| SPACE         | B             | 
+| LCTRL         | ZR            | |
 | F             | A             |                                                   | 
 | R             | X             |                                                   | 
 | F             | Hat Up        |                                                   | 
@@ -76,7 +77,6 @@ sudo ./proconcon.out
 | ↓          | Hat Down      |                                                   | 
 | ←          | Hat Left      |                                                   | 
 | →          | Hat Right     |                                                   | 
-| ↑          | Hat Up        |                                                   | 
 | Arrow Key     | Stick R       |                                                   | 
 | F5            |               | X sensitivity+0.1 デバッグ用                       | 
 | F6            |               | X sensitivity-0.1 デバッグ用                       | 
@@ -84,9 +84,9 @@ sudo ./proconcon.out
 | F8            |               | Y sensitivity-0.1 デバッグ用                       | 
 | F9            |               | Y following+0.1 デバッグ用                       | 
 | F10           |               | Y following-0.1 デバッグ用                       | 
-| Mouse R       | R             |                                                   | 
-| Mouse L       | ZR            |                                                   | 
-| Mouse Side    | ZL            |                                                   | 
+| Mouse R       | ZR            |                                                   | 
+| Mouse L       |               |                                                   | 
+| Mouse Side    | R             |                                                   | 
 | Mouse Extra   | ZR            | Rapid Fire                                       | 
 | Mouse Wheel   | Stick R Push  |                                                   | 
 | Mouse Middle  | Stick R Push  |                                                   | 
