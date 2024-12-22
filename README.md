@@ -3,10 +3,15 @@
 
 ## 初期設定
 echo "dtoverlay=dwc2" | sudo tee -a /boot/config.txt
+
 echo "dwc2" | sudo tee -a /etc/modules
+
 echo "libcomposite" | sudo tee -a /etc/modules
+
 sudo python -m pip install joycon-python hid pyglm keyboard
+
 sudo apt install git -y
+
 sudo git clone https://github.com/takuMIN-0104o3o/proconcon.git /root/proconcon
 
 
