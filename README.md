@@ -74,6 +74,7 @@ sudo ./proconcon.out
 | I             | Stick R Push  |                                                   | 
 | L             |               | Tesla menu open                                   | 
 | Z             |               | Super jump to respawn point                     | 
+| ↑          | Hat UP        |                                                   | 
 | ↓          | Hat Down      |                                                   | 
 | ←          | Hat Left      |                                                   | 
 | →          | Hat Right     |                                                   | 
